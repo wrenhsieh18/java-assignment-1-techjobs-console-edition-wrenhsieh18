@@ -6,7 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.*;
-import java.util.regex.Pattern;
 
 /**
  * Created by LaunchCode
